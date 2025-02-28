@@ -5,7 +5,6 @@ S:614G
 Nuc:204T
 Nuc:241T
 Nuc:445C
-Nuc:1102T
 Nuc:3037T
 Nuc:6286T
 Nuc:14408T
